@@ -1,0 +1,9 @@
+zsh
+lolcat
+xrandr
+fontconfig
+zpool
+geom
+awk
+sed
+xdg-utils

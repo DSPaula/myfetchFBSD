@@ -1,0 +1,7 @@
+# Archivos temporales de editores
+*.swp
+*.bak
+*.log
+.DS_Store
+
+# También puedes agregar otros archivos o carpetas que no quieras subir

@@ -1,0 +1,11 @@
+📋 Requisitos
+
+FreeBSD 13 o superior
+
+Zsh
+Lolcat
+Xorg utilities (xrandr)
+Fontconfig (fc-match)
+
+Instalación rápida:
+sudo pkg install zsh lolcat xrandr fontconfig bash

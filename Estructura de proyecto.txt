@@ -1,0 +1,6 @@
+myfetchFBSD/
+├── README.md
+├── LICENSE
+├── install.sh
+├── myfetchFBSD.sh
+└── requirements.txt
